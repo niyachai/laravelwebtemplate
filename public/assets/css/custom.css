@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PKAngThong';
+    src: url('../font/MN CAPPUCCINO Bold Italic.ttf');
+}
+
+body {
+    /* font-family: 'IBM Plex Sans Thai Looped', sans-serif; */
+    font-family: 'PKAngThong', sans-serif;
+}
+
+.mynav{
+    background-color: blueviolet;
+}
